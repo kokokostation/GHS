@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1433346065 source:/run/media/mikhail/cf8beb1e-b35f-4563-b2be-db41b8597493/home/mikhail/Desktop/Desktop/Lokot/MST/emulator.cpp
+	<vector>
+	<deque>
+	<memory>
+	<algorithm>
+	"emulator.h"
+	"graph_as_vector.h"
+
+1433349733 /run/media/mikhail/cf8beb1e-b35f-4563-b2be-db41b8597493/home/mikhail/Desktop/Desktop/Lokot/MST/emulator.h
+	<vector>
+	<deque>
+	<memory>
+	<algorithm>
+	<unordered_set>
+	<stdexcept>
+	"graph_as_vector.h"
+	"random.h"
+
+1433350762 /run/media/mikhail/cf8beb1e-b35f-4563-b2be-db41b8597493/home/mikhail/Desktop/Desktop/Lokot/MST/graph_as_vector.h
+	<vector>
+	<iostream>
+	<unordered_set>
+	<climits>
+	<stdexcept>
+
+1430155514 /run/media/mikhail/cf8beb1e-b35f-4563-b2be-db41b8597493/home/mikhail/Desktop/Desktop/Lokot/MST/random.h
+
+1433350962 source:/run/media/mikhail/cf8beb1e-b35f-4563-b2be-db41b8597493/home/mikhail/Desktop/Desktop/Lokot/MST/graph_as_vector.cpp
+	<vector>
+	<algorithm>
+	<iostream>
+	<unordered_set>
+	"graph_as_vector.h"
+
+1433350124 source:/run/media/mikhail/cf8beb1e-b35f-4563-b2be-db41b8597493/home/mikhail/Desktop/Desktop/Lokot/MST/kruskal.cpp
+	<vector>
+	<algorithm>
+	"kruskal.h"
+	"graph_as_vector.h"
+
+1430234928 /run/media/mikhail/cf8beb1e-b35f-4563-b2be-db41b8597493/home/mikhail/Desktop/Desktop/Lokot/MST/kruskal.h
+	<vector>
+	<unordered_map>
+	"graph_as_vector.h"
+
+1478177955 source:/run/media/mikhail/cf8beb1e-b35f-4563-b2be-db41b8597493/home/mikhail/Desktop/Desktop/Lokot/MST/main.cpp
+	<iostream>
+	<sstream>
+	<cmath>
+	<utility>
+	"graph_as_vector.h"
+	"emulator.h"
+	"kruskal.h"
+	"node.h"
+	"random"
+
+1433348277 /run/media/mikhail/cf8beb1e-b35f-4563-b2be-db41b8597493/home/mikhail/Desktop/Desktop/Lokot/MST/node.h
+	<vector>
+	<deque>
+	<queue>
+	<climits>
+	<memory>
+	"graph_as_vector.h"
+	"emulator.h"
+	"ghs.h"
+
+1433349551 /run/media/mikhail/cf8beb1e-b35f-4563-b2be-db41b8597493/home/mikhail/Desktop/Desktop/Lokot/MST/ghs.h
+	"graph_as_vector.h"
+
+1433350124 source:/run/media/mikhail/cf8beb1e-b35f-4563-b2be-db41b8597493/home/mikhail/Desktop/Desktop/Lokot/MST/node.cpp
+	<vector>
+	<utility>
+	<deque>
+	<queue>
+	<algorithm>
+	<memory>
+	"node.h"
+	"emulator.h"
+
+1430431417 source:/run/media/mikhail/cf8beb1e-b35f-4563-b2be-db41b8597493/home/mikhail/Desktop/Desktop/Lokot/MST/random.cpp
+	<random>
+
+1478178299 source:/run/media/mikhail/cf8beb1e-b35f-4563-b2be-db41b8597493/home/mikhail/Desktop/Desktop/Lokot/MST/ghs.cpp
+	<memory>
+	"graph_as_vector.h"
+	"emulator.h"
+	"node.h"
+
