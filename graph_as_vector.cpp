@@ -50,7 +50,7 @@ size_t Graph_as_vector::Edge::get_weight() const
 
 bool Graph_as_vector::Edge::operator==(const Edge& e) const
 {
-    return first_node == e.first_node && second_node == e.second_node && weight == e.weight;
+    return Primitive_edge::operator==(e) && weight == e.weight;
 }
 bool Graph_as_vector::Edge::operator!=(const Edge& e) const
 {

@@ -16,7 +16,7 @@ class Graph_as_vector
 public:
     class Primitive_edge
     {
-    protected:
+    private:
         size_t first_node, second_node;
 
     public:
